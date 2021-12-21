@@ -1,13 +1,13 @@
 ---
 title: "About"
 layout: "about"
-image: "images/about.jpg"
+image: ""
 draft: false
 
 #caption
 caption:
   enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+  title: "I’m Alejandra Arriola, a technical writer based in Mexico"
 
 # social
 social:
@@ -16,7 +16,7 @@ social:
   - link: "https://www.facebook.com/"
     icon: "lab la-facebook-f"
 
-  - link: "https://www.twitter.com/"
+  - link: "https://www.twitter.com/alearriolao"
     icon: "lab la-twitter"
     
   - link: "https://www.linkedin.com/"
